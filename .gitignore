@@ -3,4 +3,3 @@ node_modules
 out
 old-tests
 .nyc-output
-dist
